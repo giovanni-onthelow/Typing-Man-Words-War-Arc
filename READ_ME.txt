@@ -27,7 +27,7 @@ Tipe-tipe musuh:
     kalau tidak di input akan mengurangi 1 Lives (nyawa). Memiliki warna huruf putih.
 
     2. Word Bomb : Jika di input maka lives (nyawa) akan berkurang 2,
-    jika tidak di input tidak akan mengurangi nyawa. Memiliki warna huruf kuning.
+    jika tidak di input tidak akan mengurangi nyawa. Memiliki warna huruf oranye.
 
     3. Word Boss : Jika di input maka lives (nyawa) akan bertambah 2,
     jika tidak di input maka nyawa akan berkurang 1. Memiliki warna huruf merah.
